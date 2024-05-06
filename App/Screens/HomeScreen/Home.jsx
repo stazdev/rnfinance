@@ -111,8 +111,8 @@ const styles = StyleSheet.create({
   },
   blueBackground: {
     backgroundColor: Colors.primary,
-    borderBottomRightRadius: 40,
-    borderBottomLeftRadius: 40,
+    borderBottomRightRadius: 30,
+    borderBottomLeftRadius: 30,
     height: Dimensions.get("window").height * 0.3,
     padding: 24,
   },
